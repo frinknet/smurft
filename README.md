@@ -1,5 +1,5 @@
 # S.M.U.R.F.I.T.Y.
-Super Minification Utlitiy for Rapid Frontend thus. Increasing Transmition Yeild...
+Super Minification Utlitiy for Rapid Frontends to Increasing Transmition Yeild...
 ____
 Or more simply, a CSS minifier and JavaScript minifier that just works!!!
 
