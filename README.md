@@ -1,8 +1,8 @@
-# Introducing S.M.U.R.F.I.T.Y!!!
-Sed Minification Utility Reliable For Increasing Transmited Yeild...
+# Introducing S.M.U.R.F.T.!!!
+Sed Minification Utility for Rendering Fast Text...
 
 ```bash
-smurfity [file] > [minified file]
+smurft [file] > [minified file]
 ```
 
 In other words, the HTML, CSS, and JavaScript minifier that just works!!!
