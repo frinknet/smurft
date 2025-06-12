@@ -12,3 +12,5 @@ In other words, the HTML, CSS, and JavaScript minifier that just works!!!
 - Single executable script.
 - Ready for CI/CD.
 - No fuss.
+
+I really need to greate more documentation
